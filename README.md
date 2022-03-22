@@ -1,4 +1,4 @@
-# Bitcoin Price Prediction with LSTM and Facebook Prophet - A CS 4675 Project
+# Bitcoin Price Prediction with LSTM and Facebook Prophet
 
 Author: [Shiyi Wang](mailto:swang793@gatech.edu)
 
@@ -37,7 +37,7 @@ conda env create -f bit-env.yml
 conda activate bit-env
 ```
 
-### TA Grading Usage
+### General Usage
 
 Please run the following command in the index directory.
 
